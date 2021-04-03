@@ -1,5 +1,5 @@
 from numpy import array, pi, zeros, ix_, sqrt
-from beam_element import beam_element
+from beam_column_element import beam_element
 from scipy.linalg import solve
 
 xy = array([
